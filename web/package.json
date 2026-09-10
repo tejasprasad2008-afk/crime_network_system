@@ -1,12 +1,12 @@
 {
   "name": "icnas-crime-network-web",
   "version": "1.0.0",
-  "description": "Intelligent Crime Network Analysis System - SIH 2026 Problem Statement 26189",
+  "description": "Intelligent Crime Network Analysis System - Deterministic Multi-Modal Forensic Knowledge Graph",
   "main": "index.html",
   "scripts": {
     "start": "npx serve ."
   },
-  "keywords": ["sih", "crime-network", "knowledge-graph", "law-enforcement"],
-  "author": "SIH 2026 Team",
+  "keywords": ["forensic-intelligence", "crime-network", "knowledge-graph", "law-enforcement", "bsa-2023"],
+  "author": "ICNAS Project",
   "license": "MIT"
 }

@@ -1,6 +1,5 @@
 """
 app.py - Intelligent Crime Network Analysis System (ICNAS)
-SIH 2026 Problem Statement 26189 | Ministry of Home Affairs (MHA)
 Deterministic Crime Knowledge Graph, Trained Entity Resolution,
 Sarvam AI Indic Speech Integration, and Section 63 BSA 2023 Legal Provenance.
 """
@@ -231,7 +230,7 @@ with st.sidebar:
 
 # ----------------- HEADER & STATUS ----------------- #
 st.markdown("<div class='main-title'>Intelligent Crime Network Analysis System</div>", unsafe_allow_html=True)
-st.markdown("<div class='sub-title'>Evidence-Grounded Temporal Crime Knowledge Graph | Ministry of Home Affairs (SIH 26189)</div>", unsafe_allow_html=True)
+st.markdown("<div class='sub-title'>Evidence-Grounded Temporal Crime Knowledge Graph | Multi-Jurisdiction Police Reasoning Layer</div>", unsafe_allow_html=True)
 
 st.markdown("""
 <span class='badge badge-primary'>100% CPU Deterministic Engine</span>
